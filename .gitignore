@@ -1,0 +1,17 @@
+# Secret API Keys
+.env
+
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# Local Database (Each user should build their own)
+pharmacy_db/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Mac System Files
+.DS_Store
