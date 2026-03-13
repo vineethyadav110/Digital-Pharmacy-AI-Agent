@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 4. Set up your Environment Variables:
 
-Get a free API key from Google AI Studio.
+Get a free API key from Google AI Studio: https://aistudio.google.com/api-keys
 
 5. Create a new file in the root directory named exactly .env.
 
