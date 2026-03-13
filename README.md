@@ -16,9 +16,9 @@ An intelligent, empathetic RAG (Retrieval-Augmented Generation) agent that helps
    ```bash
    git clone [https://github.com/vineethyadav110/Digital_Pharmacy_agent.git](https://github.com/vineethyadav110/Digital_Pharmacy_agent.git)
    cd Digital_Pharmacy_agent
-   Create and Activate a Virtual Environment:
-
-2. Mac/Linux:
+   
+2. Create and Activate a Virtual Environment:
+Mac/Linux:
 Bash
 python3 -m venv .venv
 source .venv/bin/activate
@@ -50,3 +50,5 @@ Launch the Web App:
 
 Bash
 streamlit run app.py
+
+
